@@ -1,0 +1,3 @@
+* annex.backend=SHA256
+* annex.numcopies=2
+*.exe annex.numcopies=1
